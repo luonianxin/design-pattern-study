@@ -21,6 +21,7 @@
 
         <module>design-pattern-study-1-00</module>
         <module>design-pattern-study-1-01</module>
+        <module>design-pattern-study-1-02</module>
     </modules>
 
     <dependencies>
