@@ -32,6 +32,7 @@
         <module>design-pattern-study-4-00</module>
         <module>design-pattern-study-4-01</module>
         <module>design-pattern-study-4-02</module>
+        <module>design-pattern-study-5-00</module>
     </modules>
 
     <dependencies>
