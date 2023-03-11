@@ -41,4 +41,16 @@ public abstract class Duck {
      *  设计成抽象的
      */
     public abstract void display();
+
+
+    /**
+     *  为了动态设定鸭子的行为引入两个方法
+     * @param quackBehavior
+     */
+    public void setQuackBehavior(QuackBehavior quackBehavior){
+        this.quackBehavior = quackBehavior;
+    }
+    public void setFlyBehavior(FlyBehavior flyBehavior){
+        this.flyBehavior = flyBehavior;
+    }
 }
